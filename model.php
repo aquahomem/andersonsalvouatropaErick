@@ -1,4 +1,3 @@
-# andersonsalvouatropaErick
 <?php
 //Model: guarda os números e os resultados
 class Model {
